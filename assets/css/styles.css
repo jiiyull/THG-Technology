@@ -8,3 +8,15 @@
 .export-style-5239a3cc91{display:block !important;margin-top:6px !important;color:#3b7b9d !important;}
 .export-style-8418e9189f{background:#f3f6f8 !important;}
 .export-style-02a59a345f{width:100% !important;height:100% !important;object-fit:contain !important;background:white !important;padding:15px !important;}
+.brand {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.brand-logo {
+    width: 42px;
+    height: 42px;
+    object-fit: contain;
+    display: block;
+}
